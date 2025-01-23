@@ -13,6 +13,14 @@ Ask me about Netwoking, Linux, Python, and JavaScript.<br>I have been enrolled i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumit4622&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit4622&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🌟 Featured Projects:
+- 🚀 **[Project 1 Name](https://github.com/your-repo-link)**  
+  _Brief description of the project_.
+  
+- 🔧 **[Project 2 Name](https://github.com/your-repo-link)**  
+  _Brief description of the project_.
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
