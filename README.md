@@ -11,16 +11,14 @@
 
 # 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sumit4622&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit4622&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit4622&theme=dark&hide_rank=true&cache_seconds=21600" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit4622&theme=dark" />
+</div>
+
+
+
 
 <!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit4622&theme=dark&hide_border=false" alt="GitHub Streak" />
@@ -30,7 +28,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=sumit4622&theme=radical&no-frame=false&no-bg=true&margin-w=4) --> 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumit4622&icon=0&color=0)](https://visitcount.itsvg.in)
