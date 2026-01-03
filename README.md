@@ -12,11 +12,10 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit4622&theme=dark&hide_rank=true&cache_seconds=21600" />
-  <br/>
+  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit4622&layout=compact&theme=dark)
+  <br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit4622&theme=dark" />
 </div>
-
 
 
 
